@@ -1,2 +1,21 @@
 # 01-python-core-language
-Core Python Language
+> Core Python Language
+> (c) Venkata Bhattaram
+* [001_basics_printing.md](001_basics_printing.md)
+* [002_variables_and_operators.md](002_variables_and_operators.md)
+* [003_strings.md](003_strings.md)
+* [004_lists.md](004_lists.md)
+* [004_sets.md](004_sets.md)
+* [005_tuples.md](005_tuples.md)
+* [006_dictionary.md](006_dictionary.md)
+* [007_compositions.md](007_compositions.md)
+* [007_convert_dict_tuple_list.md](007_convert_dict_tuple_list.md)
+* [008_conditional_decision_making.md](008_conditional_decision_making.md)
+* [009_iterative_or_loops.md](009_iterative_or_loops.md)
+* [010_functions.md](010_functions.md)
+* [011_function_arguments.md](011_function_arguments.md)
+* [012_function_pass_by_ref_var_scope.md](012_function_pass_by_ref_var_scope.md)
+* [016_reading_keyboard_input.md](016_reading_keyboard_input.md)
+* [017_os_commands.md](017_os_commands.md)
+* [018_file_io.md](018_file_io.md)
+* [019_exceptions.md](019_exceptions.md)
