@@ -23,7 +23,7 @@ comment
 
 
 ### Print Statement variations
-```
+```python
 # Simple print statement
 print('Welcome to tinitiate.com python turorials');
 
